@@ -27,6 +27,8 @@ Ce projet est une API GraphQL développée en Node.js avec TypeScript. L'objecti
 
 ## Lancer le projet
 
+1. Dans votre terminal
+
     ```bash
     npm run dev
     ```
