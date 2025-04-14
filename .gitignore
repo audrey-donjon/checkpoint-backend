@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Base SQLite (souvent on ne souhaite pas la partager)
+database.sqlite
+
+# Dossier de build
+dist/
+
+# Logs
+*.log
+
+# Fichiers spécifiques à certains éditeurs
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
