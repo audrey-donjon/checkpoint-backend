@@ -16,7 +16,7 @@ Ce projet est une API GraphQL développée en Node.js avec TypeScript. L'objecti
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre-username/checkpoint-backend.git
+   git clone https://github.com/audrey-donjon/checkpoint-backend.git
    cd checkpoint-backend
    ```
 
